@@ -1,0 +1,13 @@
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\bin\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.exe
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\bin\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.deps.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\bin\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.runtimeconfig.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\bin\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.runtimeconfig.dev.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\bin\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\bin\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\obj\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\obj\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.AssemblyInfoInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\obj\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.AssemblyInfo.cs
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\obj\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\obj\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\obj\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio V - Transações Bancaria\obj\Debug\netcoreapp3.1\Exercicio V - Transações Bancaria.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\bin\Debug\netcoreapp3.1\Exercicio II  - Salario.exe
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\bin\Debug\netcoreapp3.1\Exercicio II  - Salario.deps.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\bin\Debug\netcoreapp3.1\Exercicio II  - Salario.runtimeconfig.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\bin\Debug\netcoreapp3.1\Exercicio II  - Salario.runtimeconfig.dev.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\bin\Debug\netcoreapp3.1\Exercicio II  - Salario.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\bin\Debug\netcoreapp3.1\Exercicio II  - Salario.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\obj\Debug\netcoreapp3.1\Exercicio II  - Salario.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\obj\Debug\netcoreapp3.1\Exercicio II  - Salario.AssemblyInfoInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\obj\Debug\netcoreapp3.1\Exercicio II  - Salario.AssemblyInfo.cs
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\obj\Debug\netcoreapp3.1\Exercicio II  - Salario.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\obj\Debug\netcoreapp3.1\Exercicio II  - Salario.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\obj\Debug\netcoreapp3.1\Exercicio II  - Salario.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio II  - Salario\obj\Debug\netcoreapp3.1\Exercicio II  - Salario.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.exe
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.deps.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.runtimeconfig.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.runtimeconfig.dev.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.AssemblyInfoInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.AssemblyInfo.cs
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.genruntimeconfig.cache

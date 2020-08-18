@@ -1,0 +1,13 @@
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.exe
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.deps.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.runtimeconfig.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.runtimeconfig.dev.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.AssemblyInfoInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.AssemblyInfo.cs
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.genruntimeconfig.cache

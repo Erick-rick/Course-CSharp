@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio V - Transações Bancaria/1.0.0": {
+        "runtime": {
+          "Exercicio V - Transações Bancaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio V - Transações Bancaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

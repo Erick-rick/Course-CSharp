@@ -1,0 +1,13 @@
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\bin\Debug\netcoreapp3.1\Exercicio - Retangulo.exe
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\bin\Debug\netcoreapp3.1\Exercicio - Retangulo.deps.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\bin\Debug\netcoreapp3.1\Exercicio - Retangulo.runtimeconfig.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\bin\Debug\netcoreapp3.1\Exercicio - Retangulo.runtimeconfig.dev.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\bin\Debug\netcoreapp3.1\Exercicio - Retangulo.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\bin\Debug\netcoreapp3.1\Exercicio - Retangulo.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\obj\Debug\netcoreapp3.1\Exercicio - Retangulo.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\obj\Debug\netcoreapp3.1\Exercicio - Retangulo.AssemblyInfoInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\obj\Debug\netcoreapp3.1\Exercicio - Retangulo.AssemblyInfo.cs
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\obj\Debug\netcoreapp3.1\Exercicio - Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\obj\Debug\netcoreapp3.1\Exercicio - Retangulo.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\obj\Debug\netcoreapp3.1\Exercicio - Retangulo.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio - Retangulo\obj\Debug\netcoreapp3.1\Exercicio - Retangulo.genruntimeconfig.cache

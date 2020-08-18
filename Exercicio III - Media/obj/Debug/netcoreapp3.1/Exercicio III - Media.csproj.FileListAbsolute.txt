@@ -1,0 +1,13 @@
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\bin\Debug\netcoreapp3.1\Exercicio III - Media.exe
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\bin\Debug\netcoreapp3.1\Exercicio III - Media.deps.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\bin\Debug\netcoreapp3.1\Exercicio III - Media.runtimeconfig.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\bin\Debug\netcoreapp3.1\Exercicio III - Media.runtimeconfig.dev.json
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\bin\Debug\netcoreapp3.1\Exercicio III - Media.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\bin\Debug\netcoreapp3.1\Exercicio III - Media.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\obj\Debug\netcoreapp3.1\Exercicio III - Media.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\obj\Debug\netcoreapp3.1\Exercicio III - Media.AssemblyInfoInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\obj\Debug\netcoreapp3.1\Exercicio III - Media.AssemblyInfo.cs
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\obj\Debug\netcoreapp3.1\Exercicio III - Media.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\obj\Debug\netcoreapp3.1\Exercicio III - Media.dll
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\obj\Debug\netcoreapp3.1\Exercicio III - Media.pdb
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Exercicio III - Media\obj\Debug\netcoreapp3.1\Exercicio III - Media.genruntimeconfig.cache
