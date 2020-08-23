@@ -10,3 +10,4 @@ C:\Users\Erick\Desktop\C sharp\CourseCSharp\Vetores\obj\Debug\netcoreapp3.1\Veto
 C:\Users\Erick\Desktop\C sharp\CourseCSharp\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
 C:\Users\Erick\Desktop\C sharp\CourseCSharp\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
 C:\Users\Erick\Desktop\C sharp\CourseCSharp\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache
+C:\Users\Erick\Desktop\C sharp\CourseCSharp\Vetores\obj\Debug\netcoreapp3.1\Vetores.csprojAssemblyReference.cache
